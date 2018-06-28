@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /printing
 title: "Print things"
 excerpt: "Prints"
 author_profile: true

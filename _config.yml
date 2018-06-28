@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Sebastian`"
   avatar           : "profile.png"
-  bio              : "Original Berlin since 1986"
+  bio              : "Working on brains."
   location         : "Montreal"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Montreal Neurological Institute"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   uri              :
   bitbucket        :
@@ -92,16 +92,16 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "surchs"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-5504-8579"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/1302009/surchs
   steam            :
   tumblr           :
   twitter          : "s_urchs"
@@ -304,4 +304,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-midnight

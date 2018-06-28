@@ -1,9 +1,7 @@
 ---
-permalink: /printing
-title: "Print things"
-excerpt: "Prints"
+layout: archive
+title: "Printing"
+permalink: /printing/
 author_profile: true
-redirect_from:
-  - /printing/
 ---
-I like to print stuff
+I like to print stuff. Here is how that works
